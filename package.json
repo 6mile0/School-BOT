@@ -1,0 +1,17 @@
+{
+  "name": "seiou-info-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.mjs",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "jsdom": "^16.5.2",
+    "node-fetch": "^2.6.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
