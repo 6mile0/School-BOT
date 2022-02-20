@@ -1,11 +1,11 @@
-# School-BOT
+# School Notification BOT
+A bot that can notify my school student of information.
 
-桐生清桜高校 学校のお知らせ通知BOTです
+## Purpose
+In the midst of the COVIT19 epidemic, in order to facilitate the transmission of information from the school.
 
-目的
----
-通知。
+## How to Use
+If the school releases the information, the bot will detect it and send it from the LINE Bot.
 
-使い方
----
-特に無い。サーバーがやってくれるやろ。
+## About Tech
+Made with Node.js and LINE Messaging API.
